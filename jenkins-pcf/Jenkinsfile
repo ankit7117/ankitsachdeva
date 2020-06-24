@@ -8,7 +8,7 @@ stages{
 stage("build")
 {
 
-step{
+steps{
 
 echo 'hi'
 }
